@@ -12,6 +12,6 @@ Things this taught me that I didn't see coming:
 
 These days I'm deep into agentic development and my team ran Claude-based agents as standard practice. I think it's the biggest shift in how software gets built since CI/CD.
 
-Most of my actual commits live in private work repos ([@gunter-ftp](https://github.com/gunter-ftp) — the contribution graph is there, the code sadly isn't). Before all this: a PhD in biomedical engineering, a startup CTO chapter, and ML on energy data.
+Before all this: a PhD in biomedical engineering, a startup CTO chapter, and ML on energy data.
 
 📍 Glasgow · usually found refactoring something that was "fine as it was".
